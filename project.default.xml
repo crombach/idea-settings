@@ -1,0 +1,87 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/code/RegP2" value="PREVIEW" />
+            <entry key="$USER_HOME$/code/Reg_Plus" value="PREVIEW" />
+            <entry key="$USER_HOME$/code/Reg_Plus/Regp" value="PREVIEW" />
+            <entry key="$USER_HOME$/code/Reg_Plus2" value="PREVIEW" />
+            <entry key="$USER_HOME$/code/factweave" value="PREVIEW" />
+            <entry key="$USER_HOME$/code/factweave2" value="PREVIEW" />
+            <entry key="$USER_HOME$/code/heritage-trail" value="PREVIEW" />
+            <entry key="$USER_HOME$/code/javers" value="PREVIEW" />
+            <entry key="$USER_HOME$/code/javers-815" value="PREVIEW" />
+            <entry key="$USER_HOME$/code/regp-eo" value="PREVIEW" />
+            <entry key="$USER_HOME$/code/regp2" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="$USER_HOME$/.sdkman/candidates/java/8.0.171-oracle/bin/jvisualvm" />
+        <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="Applet">
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <option name="TEST_OBJECT" value="class" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+        <configuration default="true" type="TestNG">
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+          <properties />
+          <listeners />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>Current JDK (sdkman)</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

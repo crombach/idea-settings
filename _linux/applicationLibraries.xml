@@ -1,0 +1,62 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.6 venv factweave interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.virtualenvs/python-hc8-zY5s/lib/python3.6" />
+        <root url="file://$USER_HOME$/.virtualenvs/python-hc8-zY5s/lib/python3.6/lib-dynload" />
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file://$USER_HOME$/.virtualenvs/python-hc8-zY5s/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/code/factweave/python" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/720567886" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.virtualenvs/python-hc8-zY5s/lib/python3.6" />
+        <root url="file://$USER_HOME$/.virtualenvs/python-hc8-zY5s/lib/python3.6/lib-dynload" />
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file://$USER_HOME$/.virtualenvs/python-hc8-zY5s/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/code/factweave/python" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/720567886" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.6 venv Reg_Plus interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.virtualenvs/python-2LrfIZSq/lib/python3.6" />
+        <root url="file://$USER_HOME$/.virtualenvs/python-2LrfIZSq/lib/python3.6/lib-dynload" />
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file://$USER_HOME$/.virtualenvs/python-2LrfIZSq/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/code/Reg_Plus/python" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/850636094" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.virtualenvs/python-2LrfIZSq/lib/python3.6" />
+        <root url="file://$USER_HOME$/.virtualenvs/python-2LrfIZSq/lib/python3.6/lib-dynload" />
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file://$USER_HOME$/.virtualenvs/python-2LrfIZSq/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/code/Reg_Plus/python" />
+        <root url="file://$USER_HOME$/.IdeaIC2018.3/system/python_stubs/850636094" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

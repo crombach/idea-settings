@@ -1,4 +1,11 @@
 <code_scheme name="Default" version="173">
+  <JetCodeStyleSettings>
+    <option name="PACKAGES_TO_USE_STAR_IMPORTS">
+      <value>
+        <package name="kotlinx.android.synthetic" withSubpackages="true" static="false" />
+      </value>
+    </option>
+  </JetCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="WRAP_COMMENTS" value="true" />
   </codeStyleSettings>

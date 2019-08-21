@@ -4,18 +4,13 @@
     <property name="created">2018-05-01T09:11:02</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2019-04-24T11:08:22</property>
+    <property name="modified">2019-08-21T15:06:33</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
@@ -143,11 +138,8 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="BASH.HERE_DOC" baseAttributes="DEFAULT_STRING" />
     <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
     <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.REDIRECTION" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLADE_BAD_CHARACTER">
       <value>

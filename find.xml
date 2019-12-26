@@ -20,5 +20,6 @@
     <mask>*.less</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*mapping.json</mask>
   </component>
 </application>

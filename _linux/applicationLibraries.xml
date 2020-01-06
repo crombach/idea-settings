@@ -58,5 +58,30 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="RDF: Dublin Core Metadata Initiative" type="RDF">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/LNKD.tech Editor/lib/lava-rdf-api-0.2-SNAPSHOT.jar!/eu/lunisolar/lava/rdf/api/schema/dcelements.ttl" />
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/LNKD.tech Editor/lib/lava-rdf-api-0.2-SNAPSHOT.jar!/eu/lunisolar/lava/rdf/api/schema/dcterms.ttl" />
+      </SOURCES>
+    </library>
+    <library name="RDF: The FOAF project" type="RDF">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/LNKD.tech Editor/lib/lava-rdf-api-0.2-SNAPSHOT.jar!/eu/lunisolar/lava/rdf/api/schema/foaf.ttl" />
+      </SOURCES>
+    </library>
+    <library name="RDF: World Wide Web Consortium" type="RDF">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/LNKD.tech Editor/lib/lava-rdf-api-0.2-SNAPSHOT.jar!/eu/lunisolar/lava/rdf/api/schema/22-rdf-syntax-ns.ttl" />
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/LNKD.tech Editor/lib/lava-rdf-api-0.2-SNAPSHOT.jar!/eu/lunisolar/lava/rdf/api/schema/rdf-schema.ttl" />
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/LNKD.tech Editor/lib/lava-rdf-api-0.2-SNAPSHOT.jar!/eu/lunisolar/lava/rdf/api/schema/skos.ttl" />
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/LNKD.tech Editor/lib/lava-rdf-api-0.2-SNAPSHOT.jar!/eu/lunisolar/lava/rdf/api/schema/owl2.ttl" />
+      </SOURCES>
+    </library>
   </component>
 </application>

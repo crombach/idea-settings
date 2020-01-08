@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.csv" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -19,5 +20,6 @@
     <mask>*Index.*</mask>
     <mask>*.json</mask>
     <mask>*.java</mask>
+    <mask>*.csv</mask>
   </component>
 </application>

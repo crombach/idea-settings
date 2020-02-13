@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -19,11 +20,11 @@
     <mask>*.n3</mask>
     <mask>*.less</mask>
     <mask>*mapping.json</mask>
-    <mask>*.gradle</mask>
     <mask>*Index.*</mask>
     <mask>*.json</mask>
     <mask>*.csv</mask>
     <mask>fw.json</mask>
     <mask>*.java</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>

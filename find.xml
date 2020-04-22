@@ -4,12 +4,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle.kts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -28,7 +26,7 @@
     <mask>fw.json</mask>
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
-    <mask>*.gradle.kts</mask>
     <mask>*.java</mask>
+    <mask>*.gradle.kts</mask>
   </component>
 </application>

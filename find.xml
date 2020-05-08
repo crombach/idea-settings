@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle.kts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -22,8 +23,8 @@
     <mask>*.csv</mask>
     <mask>fw.json</mask>
     <mask>*.gradle</mask>
-    <mask>*.gradle.kts</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
+    <mask>*.gradle.kts</mask>
   </component>
 </application>

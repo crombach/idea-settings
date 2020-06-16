@@ -9,7 +9,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -23,7 +23,6 @@
     <mask>*.less</mask>
     <mask>*mapping.json</mask>
     <mask>*Index.*</mask>
-    <mask>*.json</mask>
     <mask>*.csv</mask>
     <mask>fw.json</mask>
     <mask>*.gradle</mask>
@@ -32,5 +31,6 @@
     <mask>*.kt</mask>
     <mask>*.graphql</mask>
     <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>

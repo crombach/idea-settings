@@ -554,7 +554,7 @@
   </component>
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
-      <Renderer ID="CompoundTypeRenderer">
+      <Renderer ID="CompoundNodeRenderer">
         <option name="NAME" value="com.fasterxml.jackson.core.io.SerializedString" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.fasterxml.jackson.core.io.SerializedString" />
@@ -569,9 +569,7 @@
     </CustomRenderers>
   </component>
   <component name="XDebuggerSettings">
-    <data-views>
-      <option name="showLibraryStackFrames" value="false" />
-    </data-views>
+    <data-views />
     <general />
     <debuggers>
       <debugger id="kotlin_debugger">

@@ -29,7 +29,7 @@
     <mask>*.gradle.kts</mask>
     <mask>build.gradle.kts</mask>
     <mask>*.kts</mask>
-    <mask>*.kt</mask>
     <mask>*.java</mask>
+    <mask>*.kt</mask>
   </component>
 </application>

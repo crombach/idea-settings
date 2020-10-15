@@ -9,14 +9,13 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.html</mask>
     <mask>*.ttl</mask>
     <mask>*.xml</mask>
     <mask>*.n3</mask>
@@ -34,5 +33,6 @@
     <mask>*.kts</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
+    <mask>*.html</mask>
   </component>
 </application>

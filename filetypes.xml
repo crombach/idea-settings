@@ -5,6 +5,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="domainclassprovider" type="PLAIN_TEXT" />
+      <mapping ext="ttl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

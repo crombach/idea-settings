@@ -7,14 +7,13 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kotlin" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.ttl</mask>
     <mask>*.xml</mask>
     <mask>*.n3</mask>
     <mask>*.less</mask>
@@ -32,7 +31,8 @@
     <mask>*.html</mask>
     <mask>*.graphqls</mask>
     <mask>*.kt</mask>
-    <mask>*.java</mask>
     <mask>*.kotlin</mask>
+    <mask>*.ttl</mask>
+    <mask>*.java</mask>
   </component>
 </application>

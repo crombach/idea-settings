@@ -1,15 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.gradle.kts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -27,7 +23,6 @@
     <mask>*.graphql</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
-    <mask>*.gradle.kts</mask>
     <mask>build.gradle.kts</mask>
     <mask>*.kts</mask>
     <mask>*.html</mask>
@@ -36,5 +31,6 @@
     <mask>*.kotlin</mask>
     <mask>*.ttl</mask>
     <mask>*.java</mask>
+    <mask>*.gradle.kts</mask>
   </component>
 </application>

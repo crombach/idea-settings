@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="domainclassprovider" type="PLAIN_TEXT" />
       <mapping ext="ttl" type="PLAIN_TEXT" />
-      <removed_mapping ext="qrc" type="XML" />
     </extensionMap>
   </component>
 </application>

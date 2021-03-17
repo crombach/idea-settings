@@ -29,7 +29,8 @@
     <mask>build.gradle.kts</mask>
     <mask>*.graphqls</mask>
     <mask>*.java</mask>
-    <mask>*.gradle.kts</mask>
     <mask>*.kt</mask>
+    <mask>*.py</mask>
+    <mask>*.gradle.kts</mask>
   </component>
 </application>

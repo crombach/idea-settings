@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.graphql" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -28,10 +28,10 @@
     <mask>*.ttl</mask>
     <mask>build.gradle.kts</mask>
     <mask>*.graphqls</mask>
-    <mask>*.java</mask>
     <mask>*.py</mask>
     <mask>*.gradle.kts</mask>
     <mask>*.kt</mask>
     <mask>*.graphql</mask>
+    <mask>*.java</mask>
   </component>
 </application>

@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java,*.kt" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -32,5 +33,6 @@
     <mask>*.kt</mask>
     <mask>*.graphql</mask>
     <mask>*.java</mask>
+    <mask>*.java,*.kt</mask>
   </component>
 </application>

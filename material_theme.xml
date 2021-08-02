@@ -8,7 +8,6 @@
     <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -22,6 +21,6 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="2c86bae4:16c2416290c:-7fff" />
-    <option name="version" value="6.7.2" />
+    <option name="version" value="6.8.0.1" />
   </component>
 </application>

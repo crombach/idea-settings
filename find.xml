@@ -4,11 +4,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -34,10 +33,10 @@
     <mask>*.graphql</mask>
     <mask>*.java</mask>
     <mask>*.java,*.kt</mask>
-    <mask>*.scss</mask>
     <mask>*.scss, *.css</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
     <mask>*.html</mask>
+    <mask>*.scss</mask>
   </component>
 </application>

@@ -30,8 +30,8 @@
     <mask>*.jsx</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
-    <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>

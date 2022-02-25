@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -33,7 +34,7 @@
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>

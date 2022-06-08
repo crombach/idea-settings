@@ -35,7 +35,7 @@
     <mask>*.properties</mask>
     <mask>*.html, *.js</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
